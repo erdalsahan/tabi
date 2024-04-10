@@ -1,5 +1,5 @@
 # TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval
-
+ 
 This repo contains an implementation of TABi, a bi-encoder for entity retrieval that trains over knowledge graph types and unstructured text. TABi introduces a type-enforced contrastive loss to encourage query and entity embeddings to cluster by type in the embedding space. 
 You can find more details in our [paper](https://arxiv.org/abs/2204.08173).
 
